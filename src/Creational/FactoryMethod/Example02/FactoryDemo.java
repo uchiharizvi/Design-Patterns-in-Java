@@ -1,4 +1,4 @@
-package Creational.FactoryMethod;
+package Creational.FactoryMethod.Example02;
 
 public class FactoryDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Creational.FactoryMethod;
+package Creational.FactoryMethod.Example02;
 
 public class ComputerFactory {
     public static Computer getComputer(String type, String ram, String hdd, String cpu){

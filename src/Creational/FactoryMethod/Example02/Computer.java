@@ -1,4 +1,4 @@
-package Creational.FactoryMethod;
+package Creational.FactoryMethod.Example02;
 
 public abstract class Computer {
     public abstract String getRAM();
