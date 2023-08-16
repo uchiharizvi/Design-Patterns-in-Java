@@ -1,4 +1,4 @@
-package Behavioural.Strategy;
+package Behavioural.Strategy.Example001;
 
 import java.io.BufferedReader;
 import java.io.IOException;

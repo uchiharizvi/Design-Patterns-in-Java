@@ -1,4 +1,4 @@
-package Behavioural.Strategy;
+package Behavioural.Strategy.Example001;
 
 public class Multiplication implements Strategy {
     @Override
